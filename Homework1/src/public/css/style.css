@@ -44,7 +44,7 @@ button:focus{
     display: grid;
     grid-template-columns: repeat(auto-fit, 200px);
     grid-template-rows: 1fr;
-    padding: 40px 80px;
+    padding: 90px;
     justify-content: space-between;
 }
 p {
@@ -53,6 +53,7 @@ p {
 .product-item{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     width: 200px;
     border-radius: 5px;
     overflow: hidden;
