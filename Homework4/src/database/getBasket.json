@@ -1,0 +1,20 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+      {
+        "id_product": 2,
+        "product_name": "Ноутбук",
+        "price": 1000,
+        "img": "https://zeon18.ru/files/item/Xiaomi-Mi-Notebook-Air-4G-Officially-Announced-Weboo-co-2%20(1)_1.jpg",
+        "quantity": 1
+      },
+      {
+        "id_product": 3,
+        "product_name": "Мышка",
+        "price": 15,
+        "img": "https://files.sandberg.it/products/images/lg/640-05_lg.jpg",
+        "quantity": 1
+      }
+    ]
+  }

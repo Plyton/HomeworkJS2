@@ -23,7 +23,7 @@ class Catalog {
         })
     };
 
-     _handleData(url) {
+    _handleData(url) {
         return new Promise((res, rej) => {
             let xhr = new XMLHttpRequest();
             xhr.onreadystatechange = () => {
@@ -38,6 +38,7 @@ class Catalog {
 
     render() {
         let str = ''
+        debugger
         this.items.forEach(item => {
             str += `
                 <div class="product-item">
